@@ -10,7 +10,7 @@ var MAIN_SHEET = {
     dateCell: 'G2',
     phoneNumberCell: 'G3',
     courriercell: 'G4',
-    cponNoteNumberCell: 'G5',
+    conNoteNumberCell: 'G5',
     invoiceToCell: 'B12',
     deliverToCell: 'E12',
     recipientEmailAddressCell: 'J3',
